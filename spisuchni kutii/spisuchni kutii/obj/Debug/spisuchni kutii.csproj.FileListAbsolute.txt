@@ -1,0 +1,10 @@
+C:\Users\1409-4\Desktop\100qn 12a\spisuchni kutii\spisuchni kutii\bin\Debug\spisuchni kutii.exe.config
+C:\Users\1409-4\Desktop\100qn 12a\spisuchni kutii\spisuchni kutii\bin\Debug\spisuchni kutii.exe
+C:\Users\1409-4\Desktop\100qn 12a\spisuchni kutii\spisuchni kutii\bin\Debug\spisuchni kutii.pdb
+C:\Users\1409-4\Desktop\100qn 12a\spisuchni kutii\spisuchni kutii\obj\Debug\spisuchni kutii.csproj.AssemblyReference.cache
+C:\Users\1409-4\Desktop\100qn 12a\spisuchni kutii\spisuchni kutii\obj\Debug\spisuchni_kutii.Form1.resources
+C:\Users\1409-4\Desktop\100qn 12a\spisuchni kutii\spisuchni kutii\obj\Debug\spisuchni_kutii.Properties.Resources.resources
+C:\Users\1409-4\Desktop\100qn 12a\spisuchni kutii\spisuchni kutii\obj\Debug\spisuchni kutii.csproj.GenerateResource.cache
+C:\Users\1409-4\Desktop\100qn 12a\spisuchni kutii\spisuchni kutii\obj\Debug\spisuchni kutii.csproj.CoreCompileInputs.cache
+C:\Users\1409-4\Desktop\100qn 12a\spisuchni kutii\spisuchni kutii\obj\Debug\spisuchni kutii.exe
+C:\Users\1409-4\Desktop\100qn 12a\spisuchni kutii\spisuchni kutii\obj\Debug\spisuchni kutii.pdb
